@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm SHIWANSHI TRIPATHI</h1>
 <h3 align="center">Web developer from India</h3>
+<img src="https://github.com/TRIPATHISHIWANSHI/TRIPATHISHIWANSHI/blob/main/Screenshot_20221114_221015.png" width="2000"/>
 <img align="right" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"/>
 
 
